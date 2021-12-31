@@ -8,6 +8,6 @@
 - Canny Edge Dedector Mode
 - YoloV3 Object Recognition Mode
 
-#You have to download Yolo or any model yourself.
+##You have to download Yolo or any model yourself.
 
 ![Screenshot](https://github.com/SafaKucukkomurler/pyqt-yolo-image-processing-gui/blob/master/screenshot.JPG)
